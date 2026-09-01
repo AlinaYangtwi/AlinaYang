@@ -1,0 +1,9 @@
+{
+  "name": "alina-yang-resume",
+  "version": "1.0.0",
+  "private": true,
+  "description": "杨丽娜 Alina Yang — GTM 策略与销售工程师个人简历网站",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
